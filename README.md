@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- This is Biswajit
+- I am a hobby Developer but as a hobby developer I learn a lot of new things about Internet and Development.
+- Internet is the future of our world.
+
+
 <!--
 **Biswajit-Mercuri/Biswajit-Mercuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
